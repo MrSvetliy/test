@@ -3,3 +3,4 @@ line 1 2 3
 Git GuI TEST
 new line in github
 new line local
+add line bash
