@@ -4,3 +4,4 @@ Git GuI TEST
 new line in github
 new line local
 add line bash
+New line in new branch
